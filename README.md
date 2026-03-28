@@ -1,5 +1,5 @@
 # GitFlow Best Practices - Step by Step Guide
-
+blob:https://skillbuilder.aws/e90c12ac-7b05-43f1-88d7-494e26efff6a
 ## Current Situation
 You're in: `~/DADTeam/training` on branch `feature1`
 You have: `CommitTest.txt`
